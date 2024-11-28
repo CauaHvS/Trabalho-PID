@@ -33,7 +33,8 @@ O sistema identifica a posição das articulações da mão e interpreta gestos 
 Abaixo estão algumas demonstrações do **DrawWithMotion** em ação:  
 
 ### Desenho no ar  
-*Aqui será inserido um GIF mostrando o desenho sendo feito com o dedo indicador levantado.*  
+![Draw](gifs/01.gif)
+  
 
 ### Apagando o desenho  
 *Aqui será inserido um GIF mostrando o gesto de apagar ao levantar três dedos.*  
