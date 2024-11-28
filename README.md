@@ -37,10 +37,12 @@ Abaixo estão algumas demonstrações do **DrawWithMotion** em ação:
   
 
 ### Apagando o desenho  
-*Aqui será inserido um GIF mostrando o gesto de apagar ao levantar três dedos.*  
+![Descrição do GIF](Gif/02.gif)
+  
 
 ### Suspensão do desenho  
-*Aqui será inserido um GIF mostrando a interrupção do desenho com um gesto alternativo.*  
+![Descrição do GIF](Gif/03.gif)
+ 
 
 ---
 
