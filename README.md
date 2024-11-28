@@ -33,7 +33,7 @@ O sistema identifica a posição das articulações da mão e interpreta gestos 
 Abaixo estão algumas demonstrações do **DrawWithMotion** em ação:  
 
 ### Desenho no ar  
-![Draw](gifs/01.gif)
+![Draw](Gif/01.gif)
   
 
 ### Apagando o desenho  
